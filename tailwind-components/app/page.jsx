@@ -8,7 +8,7 @@ export default function Home() {
         <span className=" text-blue-400 dark:text-orange-400">.</span>
       </h1>
       <p className="text-lg max-w-md my-5">
-        A collection of useful components to make building your dream website a
+        A collection of useful tailwind components to help make building your dream website a
         reality
       </p>
       <div className="flex gap-5">
