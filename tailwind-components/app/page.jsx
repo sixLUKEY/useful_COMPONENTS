@@ -12,10 +12,10 @@ export default function Home() {
         reality
       </p>
       <div className="flex gap-5">
-        <button className="dark:bg-orange-400 bg-blue-400 px-5 py-2 text-white">
+        <button className="rounded-sm dark:bg-orange-400 dark:hover:bg-orange-500 transition hover:bg-blue-500 bg-blue-400 px-5 py-2 text-white">
           Explore
         </button>
-        <button className="border dark:border-orange-400 text-blue-400 border-blue-400 px-5 py-2 dark:text-orange-400">Get in Touch</button>
+        <button className=" rounded-sm transition hover:text-white border dark:border-orange-400 dark:hover:bg-primary-dark text-blue-400 border-blue-400 hover:bg-primary px-5 py-2 dark:text-orange-400">Get in Touch</button>
       </div>
     </main>
   );

@@ -5,13 +5,15 @@ function Navbar() {
   return (
     <header className="w-full mt-5 mb-10">
       <nav className="flex justify-between py-5 dark:text-white">
+        <Link href={'/'}>
         <div className="logo">Logo</div>
+        </Link>
         <ul className="flex gap-5">
           <li>
             <Link href={"/"}>Buttons</Link>
           </li>
           <li>
-            <Link href={"/"}>Forms</Link>
+            <Link href={"/forms"}>Forms</Link>
           </li>
           <li>
             <Link href={"/"}>Lists</Link>
