@@ -1,3 +1,8 @@
+<div align=center>
+
 # useful_COMPONENTS
 
-## A collection of components created using various libraries and frameworks
+A collection of components created using various libraries and frameworks
+
+
+</div>
